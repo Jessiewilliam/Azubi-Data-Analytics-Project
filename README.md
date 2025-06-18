@@ -64,7 +64,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/KennethHayford/bank-marketing-analysis.git
+git clone https://github.com/Jessiewilliam/Azubi-Data-Analytics-Project/tree/main
 Open Azubi_Project_Bank_Analysis.ipynb in Jupyter Notebook or any Python IDE that supports .ipynb files.
 
 Run the cells sequentially to explore the analysis.
