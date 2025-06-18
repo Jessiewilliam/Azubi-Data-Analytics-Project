@@ -9,6 +9,14 @@ Azubi_Project_Bank_Analysis.ipynb - The main Jupyter Notebook containing explora
 
 bank-additional-full.csv - The dataset sourced from a Portuguese bank, containing detailed information on client responses to marketing campaigns.
 
+bank-additional.csv - with 10% of the examples (4119), randomly selected from 1), and 20 inputs. 
+
+bank-full.csv - with all examples and 17 inputs, ordered by date (older version of this dataset with less inputs). 
+
+bank.csv - with 10% of the examples and 17 inputs, randomly selected from 3 (older version of this dataset with less inputs). 
+
+bank-names.txt - files description
+
 ## 🧠 Project Objectives
 Perform comprehensive exploratory data analysis (EDA).
 
